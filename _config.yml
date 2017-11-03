@@ -16,16 +16,11 @@ description:
   index:
   en:
   es: indice.html
-feed:
-  en: /feed.xml
-  es: /flujo.xml
 baseurl: "/" # the subpath of your site, e.g. /blog
-url: "http://yourdomain.com" # the base hostname & protocol for your site
-twitter_username: irespaldiza
-github_username: irespaldiza 
-linkedin_username: irespaldiza
-wordpress_username: irespaldiza
-facebook_username: irespaldiza 
-flicker_username: cubozoo 
+url: "https://dockersevilla.github.io" # the base hostname & protocol for your site
+twitter_username: dockersevilla
+github_username: dockersevilla
+linkedin_username: groups/12076213
+facebook_username: 287339491771307 
 # Build settings
 markdown: kramdown
