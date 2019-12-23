@@ -24,3 +24,5 @@ linkedin_username: groups/12076213
 facebook_username: 287339491771307 
 # Build settings
 markdown: kramdown
+
+theme: jekyll-theme-dinky
